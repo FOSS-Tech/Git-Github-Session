@@ -113,7 +113,7 @@ Still no idea? Check out the issues in a github repository to see some work you 
 <hr>
 <details>
 <summary>How to contribute to this repository?</summary>
-If you are getting started with contributing, you just need to add some details in <code>Contributors.md</code>, in the same format as the others.
+If you are getting started with contributing, you just need to add some details in <code>contributors-list</code> and add file like <code>harshit-paneri.md</code> (user-name) in the same format as the others.
 </details>
 <hr>
 
