@@ -1,11 +1,11 @@
 <img src="image/FOSS_tech_logo.jpeg">
 
-# Hacktober Fest 2022
+# Hacktober Fest 2022 💖💖
 👋🏻 If you're new to Git and GitHub or are looking to get started with open source development, this repository is for you! I want to help you learn about these technologies and participate in Hacktoberfest, so I've collected some resources to get you started.
 
 By chance if you haven't registered for HacktoberFest, register here **[Hacktober Fest 2022](https://hacktoberfest.com/)**.
 
-> ⭐ **Star this repository** to not lose it!
+> 🌟 **Star this repository** 💫  to not lose it!
 
 ## **Learning Resources**
 
@@ -20,11 +20,11 @@ By chance if you haven't registered for HacktoberFest, register here **[Hacktobe
 
 Take your time and go through some of these articles to get an idea of what is open source.
 
-* DigitalOcean : [What is Open Source?](https://www.digitalocean.com/community/tutorials/what-is-open-source)
+* DigitalOcean 🌊 : [What is Open Source?](https://www.digitalocean.com/community/tutorials/what-is-open-source)
 
-* DigitalOcean : [Introduction to Github and Open-Source Projects](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+* DigitalOcean 🌊 : [Introduction to Github and Open-Source Projects](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
-* GitHub : [How to contribute to open source ?](https://opensource.guide/how-to-contribute/)
+* GitHub 👾 : [How to contribute to open source ?](https://opensource.guide/how-to-contribute/)
 
 * DigitalOcean : [How to use git(VCS)?](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
