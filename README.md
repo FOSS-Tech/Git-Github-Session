@@ -41,7 +41,7 @@ To get started with contributing, check them out!
 
 > For contributing in this repository, check the folder `contributors-list`.
 
-## Getting Started 🤩🤗
+## Getting Started ❤️‍🔥🖤
 
 1. Fork this [repository](https://github.com/FOSS-Tech/Git-Github-Session/fork).
 2. Clone on the repository to your local machine
