@@ -2,4 +2,4 @@
 
 | Name | Quote | Username |
 |:------:|:--------:|:---------:|
-BHERU SINGH | no quote available...... | EAGLEARCHER
+BHERU SINGH | nosdvervwevsdvvds..... | EAGLEARCHER
